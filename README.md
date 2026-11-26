@@ -114,5 +114,6 @@ Text values use lowercase with underscores (the same cleaning the notebook appli
 
 ## Author
 
-**Ehab Reda**: Junior Data Scientist & AI Engineer, Cairo, Egypt
+**Ehab Reda**: Junior AI Engineer, Cairo, Egypt
+LinkedIn: www.linkedin.com/in/theehabreda · GitHub: github.com/theehabreda
 
